@@ -1,0 +1,2 @@
+# MNIST
+MNITST dataset exploration
